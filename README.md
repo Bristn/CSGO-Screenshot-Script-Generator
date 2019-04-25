@@ -1,5 +1,5 @@
 # Screenshot-Script-Generator
-# About the program:
+# About the program
 
 So I made a small program, which converts a .txt file containing 'setpos' and/or 'setang' commands into a vscript. Additionally the program creates a .cfg file, which allows the execution of the vscript file with one console command.
 
@@ -14,6 +14,6 @@ You can find a full guide here: https://steamcommunity.com/sharedfiles/filedetai
 
 This is my first full program, so there are probably some issues. Feel free to leave any issues or suggestions on the steam guide.
 
-# About the code:
+# About the code
 This is the first time I use GitHub, so I'm not quite sure if I did everything correctly. If you plan to take a look at this program in eclipse you need to change the 'materials' and 'src' folders into source folders, elsewise it wont load any icons. This is the result of my lacking experience with GitHub.
 The code itself isn't a masterpiece either, but it gets the job done.
