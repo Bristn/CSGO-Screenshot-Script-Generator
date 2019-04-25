@@ -16,4 +16,4 @@ This is my first full program, so there are probably some issues. Feel free to l
 
 # About the code:
 This is the first time I use GitHub, so I'm not quite sure if I did everything correctly. If you plan to take a look at this program in eclipse you need to change the 'materials' and 'src' folders into source folders, elsewise it wont load any icons. This is the result of my lacking experience with GitHub.
-The code itself isn't a masterpiece aswell, but it gets the job done.
+The code itself isn't a masterpiece either, but it gets the job done.
