@@ -6,3 +6,8 @@ It will automatically teleport you to the first setpos command of your .txt file
 
 Why should I use this?
 This method of taking screenshots of your map doesn't require any entities, this means you don't need to constantly think about where to place the next point_dev_camera. Additionally allows this method an easy way to take comparison screenshots of official and custom maps between different versions.
+
+How do I use this program?
+You can find a full guide here: https://steamcommunity.com/sharedfiles/filedetails/?id=1721550921
+
+This is my first full program, so there are probably some issues. Feel free to leave any issues or suggestions on the steam guide.
