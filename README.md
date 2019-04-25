@@ -1,9 +1,11 @@
 # Screenshot-Script-Generator
 About the code:
+
 This is the first time I use GitHub, so I'm not quite sure if I did everything correctly. If you plan to take a look at this program in eclipse you need to change the 'materials' and 'src' folders into source folders, elsewise it wont load any icons. This is the result of my lacking experience with GitHub.
 The code itself isn't a masterpiece aswell, but it gets the job done.
 
 About the program:
+
 So I made a small program, which converts a .txt file containing 'setpos' and/or 'setang' commands into a vscript. Additionally the program creates a .cfg file, which allows the execution of the vscript file with one console command.
 
 What does the vscript file do if I execute it?
